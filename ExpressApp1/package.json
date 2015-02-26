@@ -1,0 +1,16 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "wchew",
+    "email": ""
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.14",
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
